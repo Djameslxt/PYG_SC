@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [19/Jun/2020:20:51:36 +0800] "GET /admin/brand.html HTTP/1.1" 200 7676 http-bio-9100-exec-1 37
+0:0:0:0:0:0:0:1 - - [19/Jun/2020:20:51:39 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9100-exec-3 2
